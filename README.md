@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-Selamat Pagi Dunia!!!, Saya Muhammad Luthfi 'Aziiz Musyafa'
-<br><br>Saya Suka bermain Coding dan suka iseng mengerjakaan project yang ternyata Dibutuhkan 😁
+Selamat Datang di GitHub Saya👋 <br>Saya Muhammad Luthfi 'Aziiz Musyafa'
+<br>Saya Suka bermain Coding dan suka iseng mengerjakan project yang ternyata Dibutuhkan 😁
 
 ## 🌐 Socials:
 
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/aziizzz18)
 
-# 💻 My Skills:
+# 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,bootstrap,tailwind,express,nodejs,mysql,laravel,materialui,github,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,md,bootstrap,tailwind,express,nodejs,mysql,laravel,materialui,git,github,vercel,netlify)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 
