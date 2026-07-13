@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 Selamat Datang di GitHub Saya👋 <br>Saya Muhammad Luthfi 'Aziiz Musyafa'
-<br>Saya Suka bermain Coding dan suka iseng mengerjakan project yang ternyata Dibutuhkan 😁
+<br>Saya adalah seseorang yang memiliki penasaran tinggi terkait teknologi 😁
 
 ## 🌐 Socials:
 
